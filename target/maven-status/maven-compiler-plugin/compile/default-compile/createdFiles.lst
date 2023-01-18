@@ -1,0 +1,8 @@
+com/bkcd/Objects/Tree.class
+com/bkcd/Objects/Blob.class
+com/bkcd/Objects/Commit.class
+com/bkcd/Main.class
+com/bkcd/ObjectStore.class
+com/bkcd/Index.class
+com/bkcd/Objects/ObjectEntity.class
+com/bkcd/Refs.class
